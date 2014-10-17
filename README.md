@@ -1,12 +1,12 @@
 # Welcome to The Citizen Input Project
 
-## about the initiatives
+## About the initiatives
 
 
-## roadmap
+## Roadmap
 
 
-## people involved
+## People involved
 
 - Charles Hymes
 - Seth Vincent
